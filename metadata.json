@@ -1,0 +1,6 @@
+{
+  "name": "SkyCast Weather",
+  "description": "A sleek, modern one-screen weather app showing real-time local temperature, humidity, hourly breakdown, and 5-day forecast.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

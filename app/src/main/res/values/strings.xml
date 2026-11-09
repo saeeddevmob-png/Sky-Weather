@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SkyCast Weather</string>
+    <string name="weather_title">SkyCast</string>
+    <string name="humidity">Humidity</string>
+    <string name="forecast_5_day">5-Day Forecast</string>
+    <string name="hourly_forecast">Hourly Forecast</string>
+    <string name="wind_speed">Wind</string>
+    <string name="uv_index">UV Index</string>
+    <string name="air_pressure">Pressure</string>
+    <string name="feels_like">Feels like</string>
+    <string name="high_low">H: %1$d°  L: %2$d°</string>
+    <string name="refresh">Refresh</string>
+</resources>
